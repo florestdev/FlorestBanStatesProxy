@@ -89,7 +89,7 @@
 
 ## 📄 Лицензия
 
-MIT License
+The Unlicense.
 
 ---
 
