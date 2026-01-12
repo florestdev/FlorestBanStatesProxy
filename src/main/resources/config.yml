@@ -1,0 +1,15 @@
+# Список стран (ISO коды)
+banned_counties:
+  - "CN"
+  - "IR"
+
+# Белый список ников
+whitelist_players:
+  - "FlorestDev"
+
+unbanned_regions: []
+
+messages:
+  kick_reason: "&cДоступ из вашей страны ограничен."
+  banned_motd: "&cНЕНЕЕНЕ."
+  banned_version_text: "&4ДОСТУП ЗАКРЫТ"
